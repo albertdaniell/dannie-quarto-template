@@ -2,7 +2,7 @@
 
 describe your website here
 
-view this website online at <https://albertdaniell.github.io/quarto-template>
+view this website online at <https://albertdaniell.github.io/dannie-quarto-template>
 
 ---
 
